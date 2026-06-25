@@ -65,6 +65,33 @@ An interactive AI Maze Solver built with Python and Tkinter that visualizes and 
 * Performance Statistics
 * Search Tree Visualization
 
+## Screenshots
+
+### Application Instructions
+
+![Instructions](screenshots/instructions.png)
+
+### Custom Maze Design
+
+![Custom Maze](screenshots/maze_own.png)
+
+### Spiral Maze Template
+
+![Spiral Maze](screenshots/maze_spiral.png)
+
+### A* Search Visualization
+
+![A\* Search](screenshots/Astar_path.png)
+
+### Breadth-First Search (BFS)
+
+![BFS Search](screenshots/bfs_path.png)
+
+### Dijkstra's Algorithm
+
+![Dijkstra Search](screenshots/dijkstra_path.png)
+
+
 ## Author
 
 **Sulaifa**
